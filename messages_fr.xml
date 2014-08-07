@@ -2360,4 +2360,49 @@
     <message key="xmlui.aspect.versioning.VersionNoticeTransformer.notice.workflow_version_help">Une version plus r&#233;cente de cet item-ci se trouve dans le Workflow.</message>
 
     <!-- End Versioning -->
+        <!-- Custom keys -->
+        <!-- To do: translate these! -->
+    <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_issuingBody">Body</message>
+    <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_contentType">Content Type</message>
+    <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_language">Language</message>
+    <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.issuingBody">Body</message>
+    <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.contentType">Content Type</message>
+    <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.language">Language</message>
+    <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.agenda">Agenda</message>
+    <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.symbol">Document Symbol</message>
+    <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.spatial">Geographic Name</message>
+    <message key="xmlui.ArtifactBrowser.Navigation.browse_issuingbody">Bodies</message>
+    <message key="xmlui.ArtifactBrowser.Navigation.browse_contenttype">Content Types</message>
+    <message key="xmlui.ArtifactBrowser.Navigation.browse_topic">Topics</message>
+    <message key="xmlui.ArtifactBrowser.Navigation.browse_series">Series</message>
+    <message key="xmlui.ArtifactBrowser.Navigation.browse_spatial">Geographic Names</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.issuingbody.column_heading">Bodies</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.contenttype.column_heading">Content Types</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.topic.column_heading">Topics</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.series.column_heading">Series</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.spatial.column_heading">Geographic Names</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.issuingbody">Browsing by Body</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.contenttype">Browsing by Content Type</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.topic">Browsing by Topic</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.series">Browsing by Series</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.issuingbody">Issuing Bodies</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.contenttype">Content Types</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.topic">Topics</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.series">Series</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.spatial">Geographic Names</message>
+    <message key="xmlui.Discovery.AbstractSearch.type_language">Filter by: Language</message>
+    <message key="xmlui.Discovery.AbstractSearch.type_subject">Filter by: Subject</message>
+    <message key="xmlui.Discovery.AbstractSearch.type_contentType">Filter by: Content Type</message>
+    <message key="xmlui.Discovery.AbstractSearch.type_issuingBody">Filter by: Issuing Body</message>
+    <message key="xmlui.Discovery.AbstractSearch.type_series">Filter by: Series</message>
+    <message key="xmlui.Discovery.AbstractSearch.type_topic">Filter by: Topic</message>
+    <message key="xmlui.Discovery.AbstractSearch.type_spatial">Filter by: Geographic Name</message>
+    <message key="xmlui.ArtifactBrowser.navigation.head_congo_situation">The situation in the Democratic republic of the Congo</message>
+    <message key="xmlui.ArtifactBrowser.navigation.head_syria_situation">The situation in the Syrian Arab Republic</message>
+    <message key="xmlui.ArtifactBrowser.navigation.head_children_in_armed_conflicts">Children in armed conflicts</message>
+    <message key="xmlui.ArtifactBrowser.Navigation.head_discover">Discover</message>
+<!-- Extras
+         <message key=""></message>
+-->
+
 </catalogue>
