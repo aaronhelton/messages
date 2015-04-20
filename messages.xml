@@ -204,7 +204,7 @@
   <message key="xmlui.ArtifactBrowser.CommunityViewer.browse_dates">Dates</message>
   <message key="xmlui.ArtifactBrowser.CommunityViewer.advanced_search_link">Advanced Search</message>
   <message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_communities">Sub-collections</message>
-  <message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_collections">Sub-collections</message>
+  <message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_collections"></message>
   <message key="xmlui.ArtifactBrowser.CommunityViewer.head_recent_submissions">New items</message>
 
 
