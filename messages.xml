@@ -1,20 +1,15 @@
 <?xml version="1.0"?>
 <!--
-
     The contents of this file are subject to the license and copyright
     detailed in the LICENSE and NOTICE files at the root of the source
     tree and available online at
-
     http://www.dspace.org/license/
-
 -->
 <catalogue xml:lang="en" xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
 
   <!--
     The format used by all keys is as follows
-
     xmlui.<Aspect>.<Java Class>.<name>
-
     There are a few exceptions to this naming format,
     1) Some general keys are in the xmlui.general namespace
        because they are used very frequently.
@@ -40,7 +35,6 @@
 
   <!--
     Page not found keys
-
     This is a special component that is not part of any aspect but is added
     by manakin to all aspect chains.
     -->
@@ -74,9 +68,7 @@
 
 
   <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
                  ArtifactBrowser Aspect
-
     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 
 
@@ -384,9 +376,7 @@
   <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.para2">Thanks</message>
   
   <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
                     EPerson Aspect
-
     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 
 
@@ -562,9 +552,7 @@
 
 
   <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
                    Submission Aspect
-
     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 
 
@@ -914,9 +902,7 @@
 
 
   <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
                  Administrative Aspect
-
     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 
   <!-- action-generated messages. These are referenced from the sitemap rather than a transformer -->
@@ -1973,9 +1959,7 @@
 
 
     <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
                      Statistics Aspect
-
         !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
     <message key="xmlui.statistics.title">Statistics</message>
     <message key="xmlui.statistics.search.title">Search Statistics</message>
@@ -2047,9 +2031,7 @@
 
 
   <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
                       dri2xhtml
-
     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 
 
@@ -2366,6 +2348,7 @@
     <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_language">Language</message>
     <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_spatial">Regions and Countries</message>
     <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_seriesYear">Years</message>
+  <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_agenda">Agenda</message>
     <!--Customized Search filters (Show advanced filters form)-->
     <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.issuingBody">UN Body</message>
     <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.contentType">Content Type</message>
@@ -2375,11 +2358,11 @@
     <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.spatial">Region or Country</message>
     <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.series">Series</message>
     <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.seriesYear">Year</message>
-    <!-- Customized browse options on collections pages -->
+    <!-- Customized browse options on collections pages and home page (top of browsing images) -->
     <message key="xmlui.ArtifactBrowser.Navigation.browse_issuingbody">UN Bodies</message>
     <message key="xmlui.ArtifactBrowser.Navigation.browse_contenttype">Content Types</message>
     <message key="xmlui.ArtifactBrowser.Navigation.browse_topic">Topics</message>
-    <message key="xmlui.ArtifactBrowser.Navigation.browse_series">Series</message>
+    <message key="xmlui.ArtifactBrowser.Navigation.browse_series">Collections</message>
     <message key="xmlui.ArtifactBrowser.Navigation.browse_spatial">Regions and Countries</message>
     
     <!-- On Collections pages Browse by heading and facets -->
@@ -2395,7 +2378,7 @@
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.topic">Browsing by Topic</message>
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.series">Browsing by Series</message>
     
-    <!-- On home pages at the top of the browsing image-->
+    <!-- ???? Where are these used-->
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.issuingbody">UN Bodies</message>
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.contenttype">Content Types</message>
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.topic">Topics</message>
@@ -2415,7 +2398,7 @@
     <message key="xmlui.ArtifactBrowser.navigation.head_congo_situation">The situation in the Democratic republic of the Congo</message>
     <message key="xmlui.ArtifactBrowser.navigation.head_syria_situation">The situation in the Syrian Arab Republic</message>
     <message key="xmlui.ArtifactBrowser.navigation.head_children_in_armed_conflicts">Children in armed conflicts</message>
-    <message key="xmlui.ArtifactBrowser.Navigation.head_discover">Search</message>
+    <message key="xmlui.ArtifactBrowser.Navigation.head_discover"></message>
     
   <!-- Extras <message key=""></message>-->
 
