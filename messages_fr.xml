@@ -2362,12 +2362,15 @@
 
     <!-- End Versioning -->
     <!-- Custom keys -->
+	<!-- Customized general key-->
+	<message key="xmlui.general.about">A propos</message>
     <!-- Customized Discovery Facets -->
     <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_issuingBody">Organe de l'ONU</message>
     <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_contentType">Type de contenu</message>
     <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_language">Langue</message>
     <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_spatial">R&#233;gions et pays</message>
     <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_seriesYear">Ann&#233;es</message>
+	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_agenda">Ordre du jour</message>
     <!--Customized Search filters (Show advanced filters form)-->
     <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.issuingBody">Organe de l'ONU</message>
     <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.contentType">Type de contenu</message>
@@ -2377,7 +2380,8 @@
     <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.spatial">R&#233;gion ou pays</message>
     <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.series">S&#233;ries</message>
     <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.seriesYear">Ann&#233;e</message>
-    <!-- Customized browse options on collections pages -->
+    
+	<!-- Customized browse options on collections pages and homepage -->
     <message key="xmlui.ArtifactBrowser.Navigation.browse_issuingbody">Organes de l'ONU</message>
     <message key="xmlui.ArtifactBrowser.Navigation.browse_contenttype">Type de contenus</message>
     <message key="xmlui.ArtifactBrowser.Navigation.browse_topic">Th&#232;mes</message>
@@ -2397,7 +2401,7 @@
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.topic">Parcourir par th&#232;me</message>
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.series">Parcourir par S&#233;rie</message>
     
-    <!-- On home pages at the top of the browsing image-->
+    <!-- Where are these used?-->
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.issuingbody">Organes de l'ONU</message>
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.contenttype">Types de contenu</message>
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.topic">Th&#232;mes</message>
@@ -2417,7 +2421,7 @@
     <message key="xmlui.ArtifactBrowser.navigation.head_congo_situation">La situation en R&#233;publique d&#233;mocratique du Congo</message>
 	<message key="xmlui.ArtifactBrowser.navigation.head_syria_situation"> La situation en R&#233;publique arabe syrienne </message>
 	<message key="xmlui.ArtifactBrowser.navigation.head_children_in_armed_conflicts">Les enfants dans les conflits arm&#233;s</message>
-	
+	<!-- No need of this, should be removed-->
     <message key="xmlui.ArtifactBrowser.Navigation.head_discover"></message>
 <!-- Extras
          <message key=""></message>
