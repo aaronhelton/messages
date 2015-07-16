@@ -2400,6 +2400,9 @@
     <message key="xmlui.ArtifactBrowser.navigation.head_children_in_armed_conflicts">Children in armed conflicts</message>
     <message key="xmlui.ArtifactBrowser.Navigation.head_discover"></message>
     
+    <!-- Used on Item View pages -->
+    <message key="xmlui.ArtifactBrowser.ItemViewer.fulltext">Open/View</message>
+    
   <!-- Extras <message key=""></message>-->
 
 </catalogue>
