@@ -2275,6 +2275,11 @@ Cuando se usa QDC para los elementos de DSpace se recomienda el uso de crosswalk
 <message key="xmlui.ArtifactBrowser.navigation.head_syria_situation">La situación en la República Árabe Siria</message>
 <message key="xmlui.ArtifactBrowser.navigation.head_children_in_armed_conflicts"> Los niños en los conflictos armados </message>
 <message key="xmlui.ArtifactBrowser.Navigation.head_discover">Descubrir</message>
+
+<!-- Used on Item View pages -->
+<message key="xmlui.ArtifactBrowser.ItemViewer.fulltext">Open/View</message>
+    
+    
 <!-- Extras
          <message key=""></message>
 -->
