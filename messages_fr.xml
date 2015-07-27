@@ -2423,6 +2423,10 @@
 	<message key="xmlui.ArtifactBrowser.navigation.head_children_in_armed_conflicts">Les enfants dans les conflits arm&#233;s</message>
 	<!-- No need of this, should be removed-->
     <message key="xmlui.ArtifactBrowser.Navigation.head_discover"></message>
+    
+    <!-- Used on Item View pages -->
+    <message key="xmlui.ArtifactBrowser.ItemViewer.fulltext">Open/View</message>
+    
 <!-- Extras
          <message key=""></message>
 -->
