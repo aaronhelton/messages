@@ -2425,7 +2425,7 @@
     <message key="xmlui.ArtifactBrowser.Navigation.head_discover"></message>
     
     <!-- Used on Item View pages -->
-    <message key="xmlui.ArtifactBrowser.ItemViewer.fulltext">Open/View</message>
+    <message key="xmlui.ArtifactBrowser.ItemViewer.fulltext">Ouvrir/Voir</message>
     
 <!-- Extras
          <message key=""></message>
