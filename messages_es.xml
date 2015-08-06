@@ -2277,7 +2277,7 @@ Cuando se usa QDC para los elementos de DSpace se recomienda el uso de crosswalk
 <message key="xmlui.ArtifactBrowser.Navigation.head_discover">Descubrir</message>
 
 <!-- Used on Item View pages -->
-<message key="xmlui.ArtifactBrowser.ItemViewer.fulltext">Open/View</message>
+<message key="xmlui.ArtifactBrowser.ItemViewer.fulltext">Abrir/Ver</message>
     
     
 <!-- Extras
